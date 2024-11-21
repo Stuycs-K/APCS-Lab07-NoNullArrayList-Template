@@ -1,7 +1,7 @@
 # APCS - Lab07 - NoNullArrayList
 You are implementing two classes:
 
-## NoNullArrayList
+# NoNullArrayList
 
 ### 2 Constructors: 
 
@@ -17,7 +17,7 @@ You are implementing two classes:
   
   `public void add(index,value)`
 
-## OrderedArrayList
+# OrderedArrayList
 
 ### 2 Constructors: 
 
@@ -29,9 +29,9 @@ You are implementing two classes:
   
 ```
 /*return the index that the value should be placed
- *when inserting into the OrderedArrayList.*/
-private int whereToPlace(T value){
-   
+ *when inserting into the OrderedArrayList.
+ */
+private int whereToPlace(T value){ 
 }
 ```
 
