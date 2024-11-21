@@ -3,11 +3,11 @@ You are implementing two classes:
 
 ## NoNullArrayList
 
-###Constructors: 
+### Constructors: 
 
 no arguments and startingCapacity
 
-###Override:
+### Override:
 
   set(index,value) 
   
@@ -15,4 +15,4 @@ no arguments and startingCapacity
   
   add(index,value)
 
-##OrderedArrayList
+## OrderedArrayList
