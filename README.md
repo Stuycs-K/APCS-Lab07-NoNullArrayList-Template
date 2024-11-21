@@ -23,10 +23,12 @@ no arguments and startingCapacity
 
 ### New Method:
   
-```private int whereToPlace(T value){
+```
+private int whereToPlace(T value){
     /*return the index that the value should be placed
     when inserting into the OrderedArrayList.*/
-}```
+}
+```
 
 ### 3 Overrides:
 
