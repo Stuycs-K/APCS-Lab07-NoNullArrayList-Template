@@ -9,11 +9,11 @@ no arguments and startingCapacity
 
 ### 3 Overrides:
 
-  `E set(index,value)`
+  `public E set(index,value)`
   
-  `boolean add(value)`
+  `public boolean add(value)`
   
-  `void add(index,value)`
+  `public void add(index,value)`
 
 ## OrderedArrayList
 
@@ -33,8 +33,8 @@ private int whereToPlace(T value){
 
 ### 3 Overrides:
 
-  `E set(index,value)`
+  `public E set(index,value)`
   
-  `boolean add(value)`
+  `public boolean add(value)`
   
-  `void add(index,value)`
+  `public void add(index,value)`
