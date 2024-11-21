@@ -5,7 +5,9 @@ You are implementing two classes:
 
 ### 2 Constructors: 
 
-no arguments and startingCapacity
+`public NoNullArrayList()`
+
+`public NoNullArrayList(int initialCapacity)`
 
 ### 3 Overrides:
 
@@ -19,7 +21,9 @@ no arguments and startingCapacity
 
 ### 2 Constructors: 
 
-no arguments and startingCapacity
+`public OrderedArrayList()`
+
+`public OrderedArrayList(int initialCapacity)`
 
 ### New Method:
   
