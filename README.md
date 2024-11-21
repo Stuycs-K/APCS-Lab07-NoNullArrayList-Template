@@ -11,11 +11,11 @@ You are implementing two classes:
 
 ### 3 Overrides:
 
-  `public E set(index,value)`
+  `public T set(int index, T value)`
   
-  `public boolean add(value)`
+  `public boolean add(T value)`
   
-  `public void add(index,value)`
+  `public void add(int index, T value)`
 
 # OrderedArrayList
 
@@ -37,8 +37,8 @@ private int whereToPlace(T value){
 
 ### 3 Overrides:
 
-  `public E set(index,value)`
+  `public T set(int index, T value)`
   
-  `public boolean add(value)`
+  `public boolean add( T value)`
   
-  `public void add(index,value)`
+  `public void add(int index,T value)`
