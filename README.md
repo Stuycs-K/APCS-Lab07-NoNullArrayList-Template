@@ -9,11 +9,11 @@ no arguments and startingCapacity
 
 ### 3 Overrides:
 
-  set(index,value) 
+  `E set(index,value)`
   
-  add(value) 
+  `boolean add(value)`
   
-  add(index,value)
+  `void add(index,value)`
 
 ## OrderedArrayList
 
@@ -24,16 +24,17 @@ no arguments and startingCapacity
 ### New Method:
   
 ```
+/*return the index that the value should be placed
+ *when inserting into the OrderedArrayList.*/
 private int whereToPlace(T value){
-    /*return the index that the value should be placed
-    when inserting into the OrderedArrayList.*/
+   
 }
 ```
 
 ### 3 Overrides:
 
-  set(index,value) 
+  `E set(index,value)`
   
-  add(value) 
+  `boolean add(value)`
   
-  add(index,value)
+  `void add(index,value)`
